@@ -1,4 +1,4 @@
-# 👾 Earth Intruders: Simulación Space Invaders con CUDA C
+# 👾 Earth Intruders: Simulación Space Invaders en CUDA C
 
 <div align="center">
   <img src="images/aliens.png" width="500">
